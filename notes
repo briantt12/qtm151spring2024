@@ -17,4 +17,14 @@ samples, confidence intervals
 Lecture 7: Summary functions, defining functions, lambda functions,
 customized plots using functions
 
-Lecture 8:
+Lecture 8: local and global variables, modify global variables,
+creating dataframes, define functions and "apply" to dataframe,
+drop a variable, mapping, import functions from a file
+
+Lecture 9: Quiz
+
+Lecture 10: import and display dataset, subsetting columns, 
+sorting by column, query function(filtering with logical expressions),
+invoke global variables in query, list unique categories, overlapping plots
+
+Lecture 11: generate simulated data, best fit line
