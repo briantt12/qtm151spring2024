@@ -28,3 +28,12 @@ sorting by column, query function(filtering with logical expressions),
 invoke global variables in query, list unique categories, overlapping plots
 
 Lecture 11: generate simulated data, best fit line
+
+Lecture 12: operations with NaNs, data cleaning, numeric values, extract
+list of numeric and replace non numeric, store cleaned dataset,
+convert to numeric, recode with intervals
+
+Lecture 14: find unique rows, aggregate statistics, aggregate statistics,
+groupby + aggregate, merge datasets
+
+Lecture 15: dictionaries, rename columns
